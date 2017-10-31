@@ -13,6 +13,13 @@
  *        |____________________|
  */
 
+/*
+ *complexity is O(N3)
+ *for each type, I iterate (1 + 2 + .... N/2)(because if the left_idx or right_idx is bigger then N/2, it will break for loop)
+ *the complexity is O(N2),
+ *so the sum is N * O(N2) = O(N3)
+ */
+
 char* longestPalindrome(char* s) {
     int left_idx = 0;
     int left_end = 0;
