@@ -14,7 +14,7 @@
  */
 
 /*
- *complexity is O(N3)
+ *complexity is O(N2)
  *for each type, I iterate (1 + 2 + .... N/2)(because if the left_idx or right_idx is bigger then N/2, it will break for loop)
  *the complexity is O(N),
  *so the sum is N * O(N) = O(N2)
@@ -30,8 +30,7 @@ char* longestPalindrome(char* s) {
     int i = 0;
     
     for ( ; i < strlen(s); i++) {
-            left_idx = 1;
-            right_idx = 1;
+            left_idx = 1; right_idx = 1;
             char* c = s + i;
             
             /*
