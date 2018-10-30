@@ -14,6 +14,8 @@ Practice of leetcode, base on C++ or Python3.
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy   |       | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/maximum_subarray.cpp) |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium |       | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/jump_game.cpp) |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/minimum_path_sum.cpp) |
+| 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)    | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/sort_colors.cpp) |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/)            | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/subsets.cpp) |
 
 
 
