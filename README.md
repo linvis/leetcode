@@ -16,6 +16,7 @@ Practice of leetcode, base on C++ or Python3.
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/minimum_path_sum.cpp) |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)    | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/sort_colors.cpp) |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/)            | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/subsets.cpp) |
+| 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/105-construct_binary_tree_from_preorder_and_inorder_traversal.cpp) |
 
 
 
