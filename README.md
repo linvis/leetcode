@@ -18,6 +18,7 @@ Practice of leetcode, base on C++ or Python3.
 | 78   | [Subsets](https://leetcode.com/problems/subsets/)            | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/subsets.cpp) |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/105-construct_binary_tree_from_preorder_and_inorder_traversal.cpp) |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy   | Array | [C++](https://github.com/shlinym/leetcode)                   |
+| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard   | Array | [C++](https://github.com/shlinym/leetcode/blob/master/C%2B%2B/128_longest_consecutive_sequence.cpp) |
 
 
 
