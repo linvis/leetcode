@@ -32,3 +32,19 @@ public:
         return {a[0] + b, b, a[0]};
     }
 };
+
+/*
+ * 我这个解法是用了递归的DP，一般形式的DP(循环的形式)应该是:
+ * ref:https://leetcode.com/problems/fibonacci-number/discuss/218301/C%2B%2B-3-Solutions-Explained-Recursive-or-Iterative-with-DP-or-Imperative
+ */
+int fib(int N) {
+    if(N < 2)
+        return N;
+    int memo[N+1];
+    memo[0] = 0;
+    memo[1] = 1;
+    for(int i=2; i<=N; i++)
+        memo[i] = memo[i-1] + memo[i-2];
+    return memo[N];
+}
+
