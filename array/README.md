@@ -8,5 +8,7 @@
 
 典型题目
 
-
+| 题目                                                         | 思路                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [solu](https://github.com/shlinym/leetcode/blob/master/array/448_Find_All_Numbers_Disappeared_in_an_Array/solu.cpp) |
 
