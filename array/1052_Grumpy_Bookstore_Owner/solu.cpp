@@ -3,6 +3,7 @@
  */
 
 // max  Sum[i] windows[X] Sum[i + X]
+// 10% fast, 100% memory less
 
 class Solution {
 public:
