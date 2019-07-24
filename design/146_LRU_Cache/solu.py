@@ -57,3 +57,8 @@ class LRUCache:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
 # obj.put(key,value)
+
+#  一种思路：字典+双向链表(history), {addr:[prev, next]}, 另外存储一个head, 一个tail，用这种数据结构维护访问记录
+#  get: 首先从cache中获取到地址，然后从history中删除掉该元素，放到tail, 所有操作O(1)
+#  put same: 同get
+#  put : head->next = head->next->next
