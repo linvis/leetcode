@@ -10,3 +10,9 @@
 [125. Valid Palindrome](https://github.com/shlinym/leetcode/blob/master/problem/125.%20Valid%20Palindrome.md)
 
 [131. Palindrome Partitioning](https://github.com/shlinym/leetcode/blob/master/problem/131.%20Palindrome%20Partitioning.md)
+
+
+## 解法分类
+
+### 快慢指针
+[141. Linked List Cycle.md](https://github.com/shlinym/leetcode/blob/master/problem/141.%20Linked%20List%20Cycle.md)
