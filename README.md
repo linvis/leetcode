@@ -11,6 +11,12 @@
 
 [131. Palindrome Partitioning](https://github.com/shlinym/leetcode/blob/master/problem/131.%20Palindrome%20Partitioning.md)
 
+### 设计类
+[146. LRU Cache](https://github.com/shlinym/leetcode/blob/master/problem/146.%20LRU%20Cache.md)
+
+### 链表问题
+[148. Sort List](https://github.com/shlinym/leetcode/blob/master/problem/148.%20Sort%20List.md)
+
 
 ## 解法分类
 
