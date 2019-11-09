@@ -19,6 +19,7 @@
 
 ### bit类问题
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
+
 [191. Number of 1 Bits](https://github.com/shlinym/leetcode/blob/master/problem/191.%20Number%20of%201%20Bits.md)
 
 ## 解法分类
@@ -31,4 +32,5 @@
 
 ### 奇技淫巧
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
+
 [191. Number of 1 Bits](https://github.com/shlinym/leetcode/blob/master/problem/191.%20Number%20of%201%20Bits.md)
