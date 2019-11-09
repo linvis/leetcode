@@ -30,6 +30,9 @@
 ### stack类
 [150. Evaluate Reverse Polish Notation](https://github.com/shlinym/leetcode/blob/master/problem/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 
+### 动态规划
+[198. House Robber](https://github.com/shlinym/leetcode/blob/master/problem/198.%20House%20Robber.md)
+
 ### 奇技淫巧
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
 
