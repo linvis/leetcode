@@ -17,6 +17,8 @@
 ### 链表问题
 [148. Sort List](https://github.com/shlinym/leetcode/blob/master/problem/148.%20Sort%20List.md)
 
+[206. Reverse Linked List](https://github.com/shlinym/leetcode/blob/master/problem/206.%20Reverse%20Linked%20List.md)
+
 ### bit类问题
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
 
