@@ -19,6 +19,9 @@
 
 [206. Reverse Linked List](https://github.com/shlinym/leetcode/blob/master/problem/206.%20Reverse%20Linked%20List.md)
 
+### 二叉树
+[236. Lowest Common Ancestor of a Binary Tree](https://github.com/shlinym/leetcode/blob/master/problem/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
+
 ### bit类问题
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
 
