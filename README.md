@@ -35,6 +35,9 @@
 ### 双指针
 [238. Product of Array Except Self](https://github.com/shlinym/leetcode/blob/master/problem/238.%20Product%20of%20Array%20Except%20Self.md)
 
+### 数组元素当做下标
+[268. Missing Number](https://github.com/shlinym/leetcode/blob/master/problem/268.%20Missing%20Number.md)
+
 ### stack类
 [150. Evaluate Reverse Polish Notation](https://github.com/shlinym/leetcode/blob/master/problem/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 
