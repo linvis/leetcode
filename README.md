@@ -51,3 +51,7 @@
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
 
 [191. Number of 1 Bits](https://github.com/shlinym/leetcode/blob/master/problem/191.%20Number%20of%201%20Bits.md)
+
+[326. Power of Three](https://github.com/shlinym/leetcode/blob/master/problem/326.%20Power%20of%20Three.md)
+计算题
+
