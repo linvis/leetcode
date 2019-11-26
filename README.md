@@ -35,6 +35,8 @@
 ### 双指针
 [238. Product of Array Except Self](https://github.com/shlinym/leetcode/blob/master/problem/238.%20Product%20of%20Array%20Except%20Self.md)
 
+[283. Move Zeroes](https://github.com/shlinym/leetcode/blob/master/problem/283.%20Move%20Zeroes.md)
+
 ### 数组元素当做下标
 [268. Missing Number](https://github.com/shlinym/leetcode/blob/master/problem/268.%20Missing%20Number.md)
 
