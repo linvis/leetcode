@@ -37,6 +37,8 @@
 
 [283. Move Zeroes](https://github.com/shlinym/leetcode/blob/master/problem/283.%20Move%20Zeroes.md)
 
+[328. Odd Even Linked List](https://github.com/shlinym/leetcode/blob/master/problem/328.%20Odd%20Even%20Linked%20List.md)
+
 ### 数组元素当做下标
 [268. Missing Number](https://github.com/shlinym/leetcode/blob/master/problem/268.%20Missing%20Number.md)
 
