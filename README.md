@@ -48,8 +48,9 @@
 ### 动态规划
 [198. House Robber](https://github.com/shlinym/leetcode/blob/master/problem/198.%20House%20Robber.md)
 
-### DFS/BFS
+### 二维数组DFS/BFS
 [200. Number of Islands](https://github.com/shlinym/leetcode/blob/master/problem/200.%20Number%20of%20Islands.md)
+[329. Longest Increasing Path in a Matrix](https://github.com/shlinym/leetcode/blob/master/problem/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
 
 ### 奇技淫巧
 [190. Reverse Bits](https://github.com/shlinym/leetcode/blob/master/problem/190.%20Reverse%20Bits.md)
