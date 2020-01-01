@@ -30,6 +30,8 @@
 ### 括号匹配/合法问题
 [921. Minimum Add to Make Parentheses Valid](https://github.com/shlinym/leetcode/blob/master/problem/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
 
+[856. Score of Parentheses](https://github.com/shlinym/leetcode/blob/master/problem/856.%20Score%20of%20Parentheses.md)
+
 ## 解法分类
 
 ### 快慢指针
@@ -53,6 +55,7 @@
 
 ### 二维数组DFS/BFS
 [200. Number of Islands](https://github.com/shlinym/leetcode/blob/master/problem/200.%20Number%20of%20Islands.md)
+
 [329. Longest Increasing Path in a Matrix](https://github.com/shlinym/leetcode/blob/master/problem/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
 
 ### 奇技淫巧
