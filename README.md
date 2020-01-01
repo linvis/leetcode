@@ -27,6 +27,9 @@
 
 [191. Number of 1 Bits](https://github.com/shlinym/leetcode/blob/master/problem/191.%20Number%20of%201%20Bits.md)
 
+### 括号匹配/合法问题
+[921. Minimum Add to Make Parentheses Valid](https://github.com/shlinym/leetcode/blob/master/problem/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
+
 ## 解法分类
 
 ### 快慢指针
